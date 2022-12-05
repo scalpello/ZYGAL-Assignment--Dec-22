@@ -160,7 +160,6 @@
     
     <script type="text/javascript">
 
-  
 
         var colorsToSwitch1 = ['red', 'yellow', 'green', 'orange'];
         var colorsToSwitch2 = ['red', 'orange', 'green', 'yellow'];
